@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A script that:
-- takes in a URL,
+- takes in the provider URL,
 - sends a request to the URL and displays the value
 - of the X-Request-Id variable found in the header ofthe response.
 """
